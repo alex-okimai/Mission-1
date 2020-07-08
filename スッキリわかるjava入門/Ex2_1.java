@@ -1,4 +1,4 @@
-package J2;
+package j2;
 
 public class Ex2_1 {
 

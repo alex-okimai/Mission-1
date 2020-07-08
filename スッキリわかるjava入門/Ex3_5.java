@@ -1,4 +1,4 @@
-package J3;
+package j3;
 
 public class Ex3_5 {
 
