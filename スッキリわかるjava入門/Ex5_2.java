@@ -11,7 +11,7 @@ public class Ex5_2 {
 	
 	public static void email(String title,String address,String text){
 		System.out.println(address + "に、以下のメールを送信しました。");
-		System.out.println(title + "メールのタイトル");
-		System.out.println(text + "メールの本文");
+		System.out.println("メールのタイトル" + title);
+		System.out.println("メールの本文" + text);
 	}
 }
